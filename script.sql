@@ -1,10 +1,4 @@
 -- Create Database
-CREATE DATABASE CompanyDB;
-GO
-
--- Use Database
-USE CompanyDB;
-GO
 
 -- Create Departments Table
 CREATE TABLE Departments (
